@@ -1,0 +1,11 @@
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\bin\Debug\netcoreapp3.0\Prog3Tarea2.exe
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\bin\Debug\netcoreapp3.0\Prog3Tarea2.deps.json
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\bin\Debug\netcoreapp3.0\Prog3Tarea2.runtimeconfig.json
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\bin\Debug\netcoreapp3.0\Prog3Tarea2.runtimeconfig.dev.json
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\bin\Debug\netcoreapp3.0\Prog3Tarea2.dll
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\bin\Debug\netcoreapp3.0\Prog3Tarea2.pdb
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\obj\Debug\netcoreapp3.0\Prog3Tarea2.csprojAssemblyReference.cache
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\obj\Debug\netcoreapp3.0\Prog3Tarea2.AssemblyInfoInputs.cache
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\obj\Debug\netcoreapp3.0\Prog3Tarea2.AssemblyInfo.cs
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\obj\Debug\netcoreapp3.0\Prog3Tarea2.dll
+C:\Users\aramis\source\repos\Prog3Tarea2\Prog3Tarea2\obj\Debug\netcoreapp3.0\Prog3Tarea2.pdb
